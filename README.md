@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/GenSyn/My%20Private%20Project/_apis/build/status/My%20Private%20Project?branchName=master)](https://dev.azure.com/GenSyn/My%20Private%20Project/_build/latest?definitionId=1&branchName=master)
